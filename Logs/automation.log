@@ -370,3 +370,63 @@
 2022-06-26 10:44:06,215 - root - INFO - ***************** Verify Home page title test is passed *****************
 2022-06-26 10:44:06,215 - root - INFO - ***************** Verify Home page title test is passed *****************
 2022-06-26 10:44:06,215 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-06-29 08:15:50,181 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:15:50,181 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:15:50,181 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:15:50,181 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:15:50,181 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:27:49,942 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:27:49,942 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:27:49,942 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:27:49,942 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:27:49,942 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Login Scuessful *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Login Scuessful *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Login Scuessful *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Login Scuessful *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Login Scuessful *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Start Add Customer test *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Start Add Customer test *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Start Add Customer test *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Start Add Customer test *****************
+2022-06-29 08:27:56,926 - root - INFO - ***************** Start Add Customer test *****************
+2022-06-29 18:22:26,589 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 18:22:26,589 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 18:22:26,589 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 18:22:26,589 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-06-29 18:22:26,589 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-02 13:37:13,327 - root - INFO - ***************** Test_001_Login *****************
+2022-07-02 13:37:13,327 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-02 13:37:16,320 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-07-02 13:37:16,327 - root - INFO - ***************** Verify Login test *****************
+2022-07-02 13:40:22,278 - root - INFO - ***************** Test_001_Login *****************
+2022-07-02 13:40:22,279 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-02 13:40:41,138 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-07-02 13:40:42,796 - root - INFO - ***************** Verify Login test *****************
+2022-07-02 13:40:51,711 - root - INFO - ***************** Verify Login test is passed *****************
+2022-07-02 14:04:04,512 - root - INFO - ***************** Test_001_Login *****************
+2022-07-02 14:04:04,512 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-02 14:04:11,318 - root - ERROR - ***************** Verify Home page title test is failed *****************
+2022-07-02 17:11:28,811 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-02 17:11:28,811 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-02 17:11:28,811 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-02 17:11:28,811 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-02 17:11:28,811 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-03 17:07:48,211 - root - INFO - Downloading chromedriver (103.0.5060.24)...
+2022-07-03 17:07:54,877 - root - INFO - ***************** Test_001_Login *****************
+2022-07-03 17:07:54,877 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-03 17:07:58,231 - root - ERROR - ***************** Verify Home page title test is failed *****************
+2022-07-03 17:09:00,115 - root - INFO - Chromedriver is already installed.
+2022-07-03 17:09:01,977 - root - INFO - ***************** Test_001_Login *****************
+2022-07-03 17:09:01,977 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-03 17:09:05,139 - root - ERROR - ***************** Verify Home page title test is failed *****************
+2022-07-03 17:09:06,692 - root - INFO - Chromedriver is already installed.
+2022-07-03 17:09:08,163 - root - INFO - ***************** Verify Login test *****************
+2022-07-03 17:09:16,422 - root - INFO - ***************** Verify Login test is passed *****************
+2022-07-03 17:15:41,324 - root - INFO - Chromedriver is already installed.
+2022-07-03 17:15:42,934 - root - INFO - ***************** Test_001_Login *****************
+2022-07-03 17:15:42,934 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-03 17:15:45,628 - root - ERROR - ***************** Verify Home page title test is failed *****************
+2022-07-03 17:15:47,080 - root - INFO - Chromedriver is already installed.
+2022-07-03 17:15:48,700 - root - INFO - ***************** Verify Login test *****************
+2022-07-03 17:16:12,082 - root - INFO - ***************** Verify Login test is passed *****************

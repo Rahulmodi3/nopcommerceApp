@@ -68,13 +68,13 @@ class Test_002_DDT_Login:
 
         if "Fail" not in lst_status:
             self.logger.info("**** Login DDT test Passed ***")
-            self.driver.close()
             assert True
+            self.driver.close()
 
         else:
             self.logger.info("**** Login DDT test Failed ***")
-            self.driver.close()
             assert False
+            self.driver.close()
 
 
         self.logger.info("**** End of Login DDT test ***")
