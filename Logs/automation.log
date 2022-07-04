@@ -430,3 +430,68 @@
 2022-07-03 17:15:47,080 - root - INFO - Chromedriver is already installed.
 2022-07-03 17:15:48,700 - root - INFO - ***************** Verify Login test *****************
 2022-07-03 17:16:12,082 - root - INFO - ***************** Verify Login test is passed *****************
+2022-07-04 08:58:29,530 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:58:29,530 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:58:29,530 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:58:29,530 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:58:29,530 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:58:31,950 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-04 08:58:31,950 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-04 08:58:31,950 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-04 08:58:31,950 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-04 08:58:31,950 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-07-04 08:58:44,486 - root - INFO - ***************** Login Scuessful *****************
+2022-07-04 08:58:44,486 - root - INFO - ***************** Login Scuessful *****************
+2022-07-04 08:58:44,486 - root - INFO - ***************** Login Scuessful *****************
+2022-07-04 08:58:44,486 - root - INFO - ***************** Login Scuessful *****************
+2022-07-04 08:58:44,486 - root - INFO - ***************** Login Scuessful *****************
+2022-07-04 08:58:44,487 - root - INFO - ***************** Start Add Customer test *****************
+2022-07-04 08:58:44,487 - root - INFO - ***************** Start Add Customer test *****************
+2022-07-04 08:58:44,487 - root - INFO - ***************** Start Add Customer test *****************
+2022-07-04 08:58:44,487 - root - INFO - ***************** Start Add Customer test *****************
+2022-07-04 08:58:44,487 - root - INFO - ***************** Start Add Customer test *****************
+2022-07-04 08:58:58,152 - root - INFO - ***************** Provide Customer info *****************
+2022-07-04 08:58:58,152 - root - INFO - ***************** Provide Customer info *****************
+2022-07-04 08:58:58,152 - root - INFO - ***************** Provide Customer info *****************
+2022-07-04 08:58:58,152 - root - INFO - ***************** Provide Customer info *****************
+2022-07-04 08:58:58,152 - root - INFO - ***************** Provide Customer info *****************
+2022-07-04 08:59:12,224 - root - INFO - ***************** Saving Customer info *****************
+2022-07-04 08:59:12,224 - root - INFO - ***************** Saving Customer info *****************
+2022-07-04 08:59:12,224 - root - INFO - ***************** Saving Customer info *****************
+2022-07-04 08:59:12,224 - root - INFO - ***************** Saving Customer info *****************
+2022-07-04 08:59:12,224 - root - INFO - ***************** Saving Customer info *****************
+2022-07-04 08:59:12,225 - root - INFO - ***************** Add Customer validation is start *****************
+2022-07-04 08:59:12,225 - root - INFO - ***************** Add Customer validation is start *****************
+2022-07-04 08:59:12,225 - root - INFO - ***************** Add Customer validation is start *****************
+2022-07-04 08:59:12,225 - root - INFO - ***************** Add Customer validation is start *****************
+2022-07-04 08:59:12,225 - root - INFO - ***************** Add Customer validation is start *****************
+2022-07-04 08:59:12,429 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-07-04 08:59:12,429 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-07-04 08:59:12,429 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-07-04 08:59:12,429 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-07-04 08:59:12,429 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-07-04 08:59:12,512 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-07-04 08:59:12,512 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-07-04 08:59:12,512 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-07-04 08:59:12,512 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-07-04 08:59:12,512 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-07-04 08:59:15,381 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:59:15,381 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:59:15,381 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:59:15,381 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:59:15,381 - root - INFO - Chromedriver is already installed.
+2022-07-04 08:59:16,889 - root - INFO - ***************** Test_001_Login *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Test_001_Login *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Test_001_Login *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Test_001_Login *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Test_001_Login *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-04 08:59:16,889 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************

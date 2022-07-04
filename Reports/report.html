@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 03-Jul-2022 at 17:16:12 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 04-Jul-2022 at 08:59:20 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -262,8 +262,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Python</td>
         <td>3.8.2</td></tr></table>
     <h2>Summary</h2>
-    <p>2 tests ran in 32.40 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>2 tests ran in 58.28 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -274,25 +274,122 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="failed results-table-row">
-        <tr>
-          <td class="col-result">Failed</td>
-          <td class="col-name">test_login.py::Test_001_Login::test_homePageTitle</td>
-          <td class="col-duration">5.67</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="image"><a class="image" href="assets/test_login.py__Test_001_Login__test_homePageTitle_0_0.png" target="_blank"><img src="assets/test_login.py__Test_001_Login__test_homePageTitle_0_0.png"/></a></div>
-            <div class="log">self = &lt;testCases.test_login.Test_001_Login object at 0x046C5A48&gt;, setup = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session=&quot;a4ada6c1f0021a29524d4a1ff91e8a77&quot;)&gt;<br/><br/>    @pytest.mark.sanity<br/>    @pytest.mark.regression<br/>    def test_homePageTitle(self,setup):<br/>    <br/>        self.logger.info(&quot;***************** Test_001_Login *****************&quot;)<br/>        self.logger.info(&quot;***************** Verify Home Page Title  *****************&quot;)<br/>        self.driver = setup<br/>        self.driver.get(self.baseURL)<br/>        act_title = self.driver.title<br/>    <br/>        if act_title == &quot;Your store. Login2&quot; :<br/>            assert True<br/>            self.logger.info(&quot;***************** Verify Home page title test is passed *****************&quot;)<br/>            self.driver.close()<br/>        else:<br/>            self.driver.save_screenshot(&quot;.\\Screenshots\\&quot; + &quot;test_homePageTitle.png&quot;)<br/>            self.logger.error(&quot;***************** Verify Home page title test is failed *****************&quot;)<br/>&gt;           assert False<br/><span class="error">E           assert False</span><br/><br/>testCases\test_login.py:32: AssertionError<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     root:utils.py:235 Chromedriver is already installed.<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:19 ***************** Test_001_Login *****************
-INFO     root:test_login.py:20 ***************** Verify Home Page Title  *****************
-ERROR    root:test_login.py:31 ***************** Verify Home page title test is failed *****************<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_login.py::Test_001_Login::test_login</td>
-          <td class="col-duration">26.47</td>
+          <td class="col-name">test_addCustomer.py::Test_003_AddCustomer::test_addcustomer</td>
+          <td class="col-duration">45.73</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:utils.py:235 Chromedriver is already installed.<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:38 ***************** Verify Login test *****************
-INFO     root:test_login.py:50 ***************** Verify Login test is passed *****************<br/></div></td></tr></tbody></table></body></html>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:utils.py:235 Chromedriver is already installed.<br/> ------------------------------Captured stdout call------------------------------ <br/>&lt;selenium.webdriver.remote.webelement.WebElement (session=&quot;3c9ff0d9ab74d8ae5a9293c2359e523d&quot;, element=&quot;0415f8b6-1d78-4fb1-8f53-7d571e87977e&quot;)&gt;
+  John Smith
+Logout
+Dashboard
+Catalog
+Sales
+Customers
+Customers
+Customer roles
+Online customers
+Vendors
+Activity log
+Activity Types
+GDPR requests (log)
+Promotions
+Content management
+Configuration
+System
+Reports
+Help
+×
+The new customer has been added successfully.
+Customers
+Add new
+Export
+  Search
+Email
+First name
+Last name
+Date of birth
+Month
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Day
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Company
+IP address
+Customer roles
+Registered
+Search
+Learn more about customers
+Email Name Customer roles Company name Active Edit
+Show
+7
+15
+20
+50
+100
+items
+Powered by nopCommerce
+Sunday, July 03, 2022 10:29 PM
+nopCommerce version 4.50.0
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomer.py:23 ***************** Test_003_AddCustomer *****************
+INFO     root:test_addCustomer.py:33 ***************** Login Scuessful *****************
+INFO     root:test_addCustomer.py:35 ***************** Start Add Customer test *****************
+INFO     root:test_addCustomer.py:45 ***************** Provide Customer info *****************
+INFO     root:test_addCustomer.py:61 ***************** Saving Customer info *****************
+INFO     root:test_addCustomer.py:63 ***************** Add Customer validation is start *****************
+INFO     root:test_addCustomer.py:70 ***************** Add Customer Test is Passed *****************
+INFO     root:test_addCustomer.py:77 ***************** Ending Test_003_AddCustomer Test *****************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login.py::Test_001_Login::test_homePageTitle</td>
+          <td class="col-duration">7.67</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:utils.py:235 Chromedriver is already installed.<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:19 ***************** Test_001_Login *****************
+INFO     root:test_login.py:20 ***************** Verify Home Page Title  *****************
+INFO     root:test_login.py:27 ***************** Verify Home page title test is passed *****************<br/></div></td></tr></tbody></table></body></html>
