@@ -23,9 +23,9 @@ Create Hybrid Framework uisng (Python, Selenium, PyTest, Page Object Model, HTML
 
 To Run tests on desired browser
 ```bash
-  pytest -s -v testCases/test_login.py - browser **chrome**
+  pytest -s -v testCases/test_login.py - browser chrome
 
-  pytest -s -v testCases/test_login.py --browser **firefox**
+  pytest -s -v testCases/test_login.py --browser firefox
 ```
 To Run tests parallel 
 ```bash
