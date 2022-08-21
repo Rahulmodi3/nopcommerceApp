@@ -58,8 +58,8 @@ def setup(broswer):
     return driver
 
 def pytest_addoption(parser):    # This wrill get the value from CLI/hooks
-    parser.addoption("--browser")
+    parser.addoption("--browsername") # --browsername  which will pass through cmd line
 
 @pytest.fixture()
 def broswer(request):            # This will return the browser value to setpup method
-    return request.config.getoption("--browser")
+    return request.config.getoption("--browsername")
