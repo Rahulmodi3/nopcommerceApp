@@ -495,3 +495,559 @@
 2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************
 2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************
 2022-07-04 08:59:20,222 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 13:35:34,844 - root - INFO - Chromedriver is already installed.
+2022-08-21 13:35:39,911 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 13:35:51,472 - root - INFO - ***************** Login Scuessful *****************
+2022-08-21 13:35:51,472 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-21 13:36:03,236 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-21 13:36:03,875 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-21 13:36:05,627 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-21 13:36:41,418 - root - INFO - Chromedriver is already installed.
+2022-08-21 13:36:44,476 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 13:40:19,000 - root - INFO - Chromedriver is already installed.
+2022-08-21 13:40:21,817 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 13:40:21,817 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 13:40:25,175 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 13:40:29,003 - root - INFO - Chromedriver is already installed.
+2022-08-21 13:40:30,461 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 14:11:33,386 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:11:36,386 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:11:40,062 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 14:11:40,063 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 14:11:42,388 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 14:11:45,814 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:11:48,204 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:11:52,413 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 14:15:10,565 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:15:12,773 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:15:16,569 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 14:15:16,569 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 14:15:18,935 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 14:15:22,261 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:15:25,074 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:15:29,310 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 14:17:09,547 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:17:12,167 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:17:15,766 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 14:17:15,766 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 14:18:08,339 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:18:11,460 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:18:15,055 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 14:18:15,055 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 14:18:17,375 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 14:18:21,063 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:18:23,674 - root - INFO - Chromedriver is already installed.
+2022-08-21 14:18:27,956 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 14:19:30,078 - WDM - INFO - ====== WebDriver manager ======
+2022-08-21 14:19:31,686 - WDM - INFO - Current firefox version is 102.0
+2022-08-21 14:19:31,686 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-21 14:19:32,328 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-21 14:19:39,819 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 14:19:39,819 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 14:19:42,348 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 14:19:43,330 - WDM - INFO - ====== WebDriver manager ======
+2022-08-21 14:19:44,588 - WDM - INFO - Current firefox version is 102.0
+2022-08-21 14:19:44,588 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-21 14:19:44,987 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-21 14:19:51,616 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 14:21:03,576 - WDM - INFO - ====== WebDriver manager ======
+2022-08-21 14:21:05,040 - WDM - INFO - Current firefox version is 102.0
+2022-08-21 14:21:05,040 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-21 14:21:05,659 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-21 14:21:12,709 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 14:21:12,709 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 14:21:15,422 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 14:21:16,747 - WDM - INFO - ====== WebDriver manager ======
+2022-08-21 14:21:19,190 - WDM - INFO - Current firefox version is 102.0
+2022-08-21 14:21:19,190 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-21 14:21:19,529 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-21 14:21:31,014 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 14:22:46,674 - WDM - INFO - ====== WebDriver manager ======
+2022-08-21 14:22:48,473 - WDM - INFO - Current firefox version is 102.0
+2022-08-21 14:22:48,474 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-21 14:22:49,232 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-21 14:22:56,130 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 14:22:56,130 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 14:22:58,764 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 14:22:58,766 - WDM - INFO - ====== WebDriver manager ======
+2022-08-21 14:22:59,910 - WDM - INFO - Current firefox version is 102.0
+2022-08-21 14:22:59,910 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-21 14:23:01,690 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-21 14:23:09,029 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 15:57:16,623 - root - INFO - Chromedriver is already installed.
+2022-08-21 15:57:21,755 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 15:57:21,755 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 15:57:26,213 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 15:57:27,541 - root - INFO - Chromedriver is already installed.
+2022-08-21 15:57:29,240 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 15:57:37,585 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-21 15:58:43,129 - root - INFO - Chromedriver is already installed.
+2022-08-21 15:58:45,388 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 15:58:45,389 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 15:58:48,528 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 15:58:49,671 - root - INFO - Chromedriver is already installed.
+2022-08-21 15:58:51,075 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 16:00:43,502 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:00:44,852 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:00:44,852 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:00:46,539 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 16:00:48,119 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:00:49,557 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 16:00:55,840 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-21 16:05:24,843 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:05:26,286 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:05:26,287 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:05:29,023 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 16:05:32,487 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:05:33,832 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 16:08:20,255 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:08:22,422 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:08:22,423 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:08:25,382 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 16:08:28,913 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:08:30,185 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 16:09:12,535 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:09:15,623 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 16:09:22,530 - root - INFO - ***************** Login Scuessful *****************
+2022-08-21 16:09:22,530 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-21 16:09:33,188 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-21 16:09:33,287 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-21 16:09:33,476 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-21 16:10:25,406 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:10:26,895 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 16:41:35,605 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:35,605 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:35,605 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:35,605 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:35,605 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:37,038 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-21 16:41:37,038 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-21 16:41:37,038 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-21 16:41:37,038 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-21 16:41:37,038 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-21 16:41:41,004 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:41,004 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:41,004 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:41,004 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:41,004 - root - INFO - Chromedriver is already installed.
+2022-08-21 16:41:42,611 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:41:42,611 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:41:42,611 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:41:42,611 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:41:42,611 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 16:41:42,612 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:41:42,612 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:41:42,612 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:41:42,612 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:41:42,612 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 16:41:45,110 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 16:41:45,110 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 16:41:45,110 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 16:41:45,110 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 16:41:45,110 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 17:07:05,806 - root - INFO - Chromedriver is already installed.
+2022-08-21 17:07:08,124 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 17:07:15,257 - root - INFO - ***************** Login Scuessful *****************
+2022-08-21 17:07:15,257 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-21 17:07:26,160 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-21 17:07:26,247 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-21 17:07:26,316 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-21 17:08:19,093 - root - INFO - Chromedriver is already installed.
+2022-08-21 17:08:21,309 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 17:13:38,883 - root - INFO - Chromedriver is already installed.
+2022-08-21 17:13:40,568 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 17:17:23,620 - root - INFO - Chromedriver is already installed.
+2022-08-21 17:17:25,585 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 17:17:45,335 - root - INFO - Chromedriver is already installed.
+2022-08-21 17:17:46,929 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-21 17:18:11,675 - root - INFO - ***************** Login Scuessful *****************
+2022-08-21 17:18:11,675 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-21 17:19:11,371 - root - INFO - Chromedriver is already installed.
+2022-08-21 17:19:13,104 - root - INFO - ***************** Test_001_Login *****************
+2022-08-21 17:19:13,105 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-21 17:19:15,567 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-21 17:19:18,851 - root - INFO - Chromedriver is already installed.
+2022-08-21 17:19:20,428 - root - INFO - ***************** Verify Login test *****************
+2022-08-21 17:19:25,687 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-22 08:45:43,446 - root - INFO - Chromedriver is already installed.
+2022-08-22 08:45:45,005 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-22 08:45:55,681 - root - INFO - ***************** Login Scuessful *****************
+2022-08-22 08:45:55,681 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-22 08:46:06,407 - root - INFO - ***************** Provide Customer info *****************
+2022-08-22 08:49:34,709 - root - INFO - Chromedriver is already installed.
+2022-08-22 08:49:36,770 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-22 08:49:45,298 - root - INFO - ***************** Login Scuessful *****************
+2022-08-22 08:49:45,299 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-22 08:49:56,460 - root - INFO - ***************** Provide Customer info *****************
+2022-08-22 08:50:10,534 - root - INFO - ***************** Saving Customer info *****************
+2022-08-22 08:50:10,535 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-22 08:53:00,711 - root - INFO - Chromedriver is already installed.
+2022-08-22 08:53:02,528 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-22 08:53:09,929 - root - INFO - ***************** Login Scuessful *****************
+2022-08-22 08:53:09,930 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-22 08:53:20,638 - root - INFO - ***************** Provide Customer info *****************
+2022-08-22 08:53:34,839 - root - INFO - ***************** Saving Customer info *****************
+2022-08-22 08:53:34,840 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-22 08:53:35,408 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-22 08:53:35,565 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-22 08:59:23,116 - root - INFO - Chromedriver is already installed.
+2022-08-22 08:59:24,810 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-22 08:59:33,236 - root - INFO - ***************** Login Scuessful *****************
+2022-08-22 08:59:33,237 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-22 08:59:43,840 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-22 09:02:10,590 - root - INFO - Chromedriver is already installed.
+2022-08-22 09:02:12,247 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-22 09:02:35,576 - root - INFO - Chromedriver is already installed.
+2022-08-22 09:02:37,717 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-22 09:02:46,278 - root - INFO - ***************** Login Scuessful *****************
+2022-08-22 09:02:46,278 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-22 09:02:56,976 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-22 09:02:57,146 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-22 09:02:57,274 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-22 09:03:43,735 - root - INFO - Chromedriver is already installed.
+2022-08-22 09:03:45,310 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-22 09:03:53,746 - root - INFO - ***************** Login Scuessful *****************
+2022-08-22 09:03:53,747 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-22 09:04:04,545 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-22 09:04:04,608 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-22 09:04:04,724 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-23 08:50:53,794 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:50:53,794 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:50:53,794 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:50:53,794 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:50:53,794 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:50:56,458 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:50:56,458 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:50:56,458 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:50:56,458 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:50:56,458 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:51:04,738 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:51:15,446 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:51:15,446 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:51:15,446 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:51:15,446 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:51:15,446 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:51:31,137 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:51:31,137 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:51:31,137 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:51:31,137 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:51:31,137 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:51:31,140 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:51:31,140 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:51:31,140 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:51:31,140 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:51:31,140 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:51:31,716 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:51:31,716 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:51:31,716 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:51:31,716 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:51:31,716 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:51:32,255 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:51:32,255 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:51:32,255 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:51:32,255 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:51:32,255 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:51:33,290 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:51:33,290 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:51:33,290 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:51:33,290 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:51:33,290 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:51:35,304 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:51:35,304 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:51:37,009 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:51:37,009 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:51:37,009 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:51:37,009 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:51:37,009 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:52:38,292 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:52:38,292 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:52:38,292 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:52:38,292 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:52:38,292 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:52:39,886 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:52:39,886 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:52:39,886 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:52:39,886 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:52:39,886 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 08:52:46,543 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:52:46,543 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:52:46,543 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:52:46,543 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:52:46,543 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 08:52:46,544 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:52:46,544 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:52:46,544 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:52:46,544 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:52:46,544 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 08:52:57,476 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:52:57,476 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:52:57,476 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:52:57,476 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:52:57,476 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 08:53:12,688 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:53:12,688 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:53:12,688 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:53:12,688 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:53:12,688 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 08:53:12,689 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:53:12,689 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:53:12,689 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:53:12,689 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:53:12,689 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 08:53:13,044 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:53:13,044 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:53:13,044 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:53:13,044 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:53:13,044 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 08:53:13,156 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:53:13,156 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:53:13,156 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:53:13,156 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:53:13,156 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 08:53:14,423 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:53:14,423 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:53:14,423 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:53:14,423 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:53:14,423 - root - INFO - Chromedriver is already installed.
+2022-08-23 08:53:16,719 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:53:16,719 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 08:53:19,921 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:53:19,921 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:53:19,921 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:53:19,921 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 08:53:19,921 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 09:01:35,221 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:35,221 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:35,221 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:35,221 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:35,221 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:39,960 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:39,960 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:39,960 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:39,960 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:39,960 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:01:44,797 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 09:01:44,797 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 09:01:44,797 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 09:01:44,797 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 09:01:44,797 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-23 09:01:54,271 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:01:54,271 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:01:54,271 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:01:54,271 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:01:54,271 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:01:54,273 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 09:01:54,273 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 09:01:54,273 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 09:01:54,273 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 09:01:54,273 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-23 09:02:08,448 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 09:02:08,448 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 09:02:08,448 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 09:02:08,448 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 09:02:08,448 - root - INFO - ***************** Provide Customer info *****************
+2022-08-23 09:02:26,867 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 09:02:26,867 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 09:02:26,867 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 09:02:26,867 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 09:02:26,867 - root - INFO - ***************** Saving Customer info *****************
+2022-08-23 09:02:26,868 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 09:02:26,868 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 09:02:26,868 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 09:02:26,868 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 09:02:26,868 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-23 09:02:27,747 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 09:02:27,747 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 09:02:27,747 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 09:02:27,747 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 09:02:27,747 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-23 09:02:28,520 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 09:02:28,520 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 09:02:28,520 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 09:02:28,520 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 09:02:28,520 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-23 09:02:31,510 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:31,510 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:31,510 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:31,510 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:31,510 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:37,041 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:37,041 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:37,041 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:37,041 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:37,041 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:42,408 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Test_001_Login *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 09:02:42,408 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-23 09:02:44,344 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 09:02:44,344 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 09:02:44,344 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 09:02:44,344 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 09:02:44,344 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-23 09:02:45,702 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:45,702 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:45,702 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:45,702 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:45,702 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:48,755 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:48,755 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:48,755 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:48,755 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:48,755 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:02:53,244 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-23 09:02:53,244 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-23 09:03:10,381 - root - INFO - ********** Pass *********
+2022-08-23 09:03:10,381 - root - INFO - ********** Pass *********
+2022-08-23 09:03:10,381 - root - INFO - ********** Pass *********
+2022-08-23 09:03:10,381 - root - INFO - ********** Pass *********
+2022-08-23 09:03:10,381 - root - INFO - ********** Pass *********
+2022-08-23 09:03:35,248 - root - INFO - ********** Pass *********
+2022-08-23 09:03:35,248 - root - INFO - ********** Pass *********
+2022-08-23 09:03:35,248 - root - INFO - ********** Pass *********
+2022-08-23 09:03:35,248 - root - INFO - ********** Pass *********
+2022-08-23 09:03:35,248 - root - INFO - ********** Pass *********
+2022-08-23 09:03:42,653 - root - INFO - ********** Pass *********
+2022-08-23 09:03:42,653 - root - INFO - ********** Pass *********
+2022-08-23 09:03:42,653 - root - INFO - ********** Pass *********
+2022-08-23 09:03:42,653 - root - INFO - ********** Pass *********
+2022-08-23 09:03:42,653 - root - INFO - ********** Pass *********
+2022-08-23 09:03:49,245 - root - INFO - ********** Pass *********
+2022-08-23 09:03:49,245 - root - INFO - ********** Pass *********
+2022-08-23 09:03:49,245 - root - INFO - ********** Pass *********
+2022-08-23 09:03:49,245 - root - INFO - ********** Pass *********
+2022-08-23 09:03:49,245 - root - INFO - ********** Pass *********
+2022-08-23 09:03:49,245 - root - INFO - **** Login DDT test Passed ***
+2022-08-23 09:03:49,245 - root - INFO - **** Login DDT test Passed ***
+2022-08-23 09:03:49,245 - root - INFO - **** Login DDT test Passed ***
+2022-08-23 09:03:49,245 - root - INFO - **** Login DDT test Passed ***
+2022-08-23 09:03:49,245 - root - INFO - **** Login DDT test Passed ***
+2022-08-23 09:03:49,619 - root - INFO - **** End of Login DDT test ***
+2022-08-23 09:03:49,619 - root - INFO - **** End of Login DDT test ***
+2022-08-23 09:03:49,619 - root - INFO - **** End of Login DDT test ***
+2022-08-23 09:03:49,619 - root - INFO - **** End of Login DDT test ***
+2022-08-23 09:03:49,619 - root - INFO - **** End of Login DDT test ***
+2022-08-23 09:03:49,619 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-23 09:03:49,619 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-23 09:03:49,619 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-23 09:03:49,619 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-23 09:03:49,619 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-23 09:03:51,415 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:51,415 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:51,415 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:51,415 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:51,415 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:56,882 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:56,882 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:56,882 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:56,882 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:03:56,882 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:02,073 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-23 09:04:02,073 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-23 09:04:02,073 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-23 09:04:02,073 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-23 09:04:02,073 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-23 09:04:11,261 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-23 09:04:22,473 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-23 09:04:22,473 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-23 09:04:22,473 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-23 09:04:22,473 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-23 09:04:22,473 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-23 09:04:22,582 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:22,582 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:22,582 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:22,582 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:22,582 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:22,764 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-23 09:04:22,764 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-23 09:04:22,764 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-23 09:04:22,764 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-23 09:04:22,764 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-23 09:04:23,809 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:23,809 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:23,809 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:23,809 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:23,809 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:26,411 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:26,411 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:26,411 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:26,411 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:26,411 - root - INFO - Chromedriver is already installed.
+2022-08-23 09:04:30,571 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-23 09:04:30,571 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-23 09:04:30,571 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-23 09:04:30,571 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-23 09:04:30,571 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-23 09:04:37,418 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:37,418 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:37,418 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:37,418 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:37,418 - root - INFO - ***************** Login Scuessful *****************
+2022-08-23 09:04:37,419 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-23 09:04:37,419 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-23 09:04:37,419 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-23 09:04:37,419 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-23 09:04:37,419 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-23 09:04:48,640 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-23 09:04:48,640 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-23 09:04:48,640 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-23 09:04:48,640 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-23 09:04:48,640 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-23 09:04:48,858 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:48,858 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:48,858 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:48,858 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:48,858 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************

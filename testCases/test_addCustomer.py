@@ -9,6 +9,8 @@ from pageObjects.LoginPage import LoginPage
 from pageObjects.AddCustomerPage import AddCustomer
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+from selenium.webdriver.common.by import By
+
 
 
 class Test_003_AddCustomer:
@@ -62,8 +64,8 @@ class Test_003_AddCustomer:
 
         self.logger.info("***************** Add Customer validation is start *****************")
 
-        self.msg=self.driver.find_element_by_tag_name("body").text
-        print(self.msg)
+        self.msg=self.driver.find_element(By.TAG_NAME,"body").text
+        #print(self.msg)
 
         if 'customer has been added successfully.' in self.msg:
             assert True
