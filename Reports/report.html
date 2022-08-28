@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 23-Aug-2022 at 09:04:49 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 28-Aug-2022 at 11:38:25 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -260,13 +260,13 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Windows-10-10.0.18362-SP0</td></tr>
       <tr>
         <td>Plugins</td>
-        <td>{"base-url": "2.0.0", "html": "3.1.1", "metadata": "2.0.2", "playwright": "0.3.0", "pytest_check": "1.0.5"}</td></tr>
+        <td>{"base-url": "2.0.0", "html": "3.1.1", "metadata": "2.0.2", "playwright": "0.3.0", "pycharm": "0.7.0", "pytest_check": "1.0.5"}</td></tr>
       <tr>
         <td>Python</td>
         <td>3.8.2</td></tr></table>
     <h2>Summary</h2>
-    <p>5 tests ran in 201.83 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">5 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>2 tests ran in 60.63 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -281,44 +281,47 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_addCustomer.py::Test_003_AddCustomer::test_addcustomer</td>
-          <td class="col-duration">54.69</td>
+          <td class="col-duration">48.40</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>
+Launching Chrome in headless mode ...........
+<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 104.0.5112
+[WDM] - Get LATEST chromedriver version for 104.0.5112 google-chrome
+[WDM] - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+[WDM] - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]
+<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:16 ====== WebDriver manager ======
+INFO     WDM:logger.py:16 Current google-chrome version is 104.0.5112
+INFO     WDM:logger.py:16 Get LATEST chromedriver version for 104.0.5112 google-chrome
+INFO     WDM:logger.py:16 About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+INFO     WDM:logger.py:16 Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]<br/> ------------------------------Captured stdout call------------------------------ <br/>&lt;selenium.webdriver.remote.webelement.WebElement (session=&quot;67e169482d6c440d0c6c4d2a0cda1e6b&quot;, element=&quot;70b709af-24fc-471e-b09e-b20861de2c8a&quot;)&gt;
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomer.py:25 ***************** Test_003_AddCustomer *****************
+INFO     root:test_addCustomer.py:35 ***************** Login Scuessful *****************
+INFO     root:test_addCustomer.py:37 ***************** Start Add Customer test *****************
+INFO     root:test_addCustomer.py:48 ***************** Provide Customer info *****************
+INFO     root:test_addCustomer.py:64 ***************** Saving Customer info *****************
+INFO     root:test_addCustomer.py:66 ***************** Add Customer validation is start *****************
+INFO     root:test_addCustomer.py:73 ***************** Add Customer Test is Passed *****************
+INFO     root:test_addCustomer.py:80 ***************** Ending Test_003_AddCustomer Test *****************<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login.py::Test_001_Login::test_homePageTitle</td>
-          <td class="col-duration">16.08</td>
+          <td class="col-duration">3.86</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_ddt_login</td>
-          <td class="col-duration">65.00</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_searchCustomerByEmail.py::Test_004_SerachCustomerByEmail::test_serachcustomer</td>
-          <td class="col-duration">33.14</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_searchCustomerByName.py::Test_004_SerachCustomerByEmail::test_serachcustomeName</td>
-          <td class="col-duration">26.18</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody></table></body></html>
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>
+Launching Chrome in headless mode ...........
+<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 104.0.5112
+[WDM] - Get LATEST chromedriver version for 104.0.5112 google-chrome
+[WDM] - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:16 ====== WebDriver manager ======
+INFO     WDM:logger.py:16 Current google-chrome version is 104.0.5112
+INFO     WDM:logger.py:16 Get LATEST chromedriver version for 104.0.5112 google-chrome
+INFO     WDM:logger.py:16 Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:19 ***************** Test_001_Login *****************
+INFO     root:test_login.py:20 ***************** Verify Home Page Title  *****************
+INFO     root:test_login.py:27 ***************** Verify Home page title test is passed *****************<br/></div></td></tr></tbody></table></body></html>

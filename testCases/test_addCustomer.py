@@ -36,6 +36,7 @@ class Test_003_AddCustomer:
 
         self.logger.info("***************** Start Add Customer test *****************")
 
+
         self.addcust = AddCustomer(self.driver)
         self.addcust.clickOnCustomersMenu()
         self.addcust.clickOnCustomersMenuItem()

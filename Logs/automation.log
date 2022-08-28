@@ -1051,3 +1051,1470 @@
 2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
 2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
 2022-08-23 09:04:48,950 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-25 09:11:29,713 - root - INFO - Chromedriver is already installed.
+2022-08-25 09:11:29,713 - root - INFO - Chromedriver is already installed.
+2022-08-25 09:11:29,713 - root - INFO - Chromedriver is already installed.
+2022-08-25 09:11:29,713 - root - INFO - Chromedriver is already installed.
+2022-08-25 09:11:29,713 - root - INFO - Chromedriver is already installed.
+2022-08-25 09:11:31,661 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-25 09:11:31,661 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-25 09:11:31,661 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-25 09:11:31,661 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-25 09:11:31,661 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 11:35:49,407 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:35:50,830 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:35:50,830 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:35:52,493 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:35:53,678 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:35:54,790 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:36:01,426 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 11:36:47,608 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:36:48,897 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:36:48,897 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:36:50,252 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:36:53,523 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:36:54,809 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:37:00,382 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 11:37:45,215 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:37:48,695 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:37:48,695 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:38:17,845 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:38:22,203 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:38:22,204 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:38:23,733 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:38:27,047 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:38:31,731 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:38:38,809 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 11:39:59,132 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:40:03,619 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:40:03,619 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:40:08,950 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:40:09,831 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:40:14,182 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:40:20,130 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 11:44:59,059 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:45:03,050 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:45:03,050 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:45:06,200 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:45:07,247 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:45:11,577 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:45:19,693 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 11:48:17,568 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:48:21,742 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:48:21,747 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:48:25,337 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:48:26,523 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:48:30,564 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:48:41,385 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 11:48:49,752 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:48:53,939 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:48:53,939 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:48:56,135 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:48:57,062 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:49:01,238 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:49:08,338 - root - ERROR - ***************** Verify Login test is failed *****************
+2022-08-27 11:51:48,252 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:51:53,164 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 11:51:53,164 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 11:51:54,631 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 11:51:55,926 - root - INFO - Chromedriver is already installed.
+2022-08-27 11:52:00,492 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 11:52:07,807 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 12:27:49,510 - root - INFO - Chromedriver is already installed.
+2022-08-27 12:27:54,608 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 12:27:54,609 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 12:27:57,403 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 12:27:58,785 - root - INFO - Chromedriver is already installed.
+2022-08-27 12:28:04,750 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 12:28:11,822 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 12:28:34,966 - root - INFO - Chromedriver is already installed.
+2022-08-27 12:28:39,465 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 12:28:39,466 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 12:28:44,555 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 12:28:45,580 - root - INFO - Chromedriver is already installed.
+2022-08-27 12:28:50,110 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 12:28:57,570 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 12:29:23,078 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 12:29:35,283 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 12:29:35,283 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 12:29:36,229 - WDM - INFO - Getting latest mozilla release info for v0.31.0
+2022-08-27 12:29:36,760 - WDM - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+2022-08-27 12:29:38,817 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0]
+2022-08-27 12:29:56,420 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 12:29:56,420 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 12:29:58,650 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 12:30:00,000 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 12:30:01,401 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 12:30:01,402 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 12:30:02,371 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 12:30:08,733 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 12:30:15,180 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 12:31:07,841 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 12:31:09,334 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 12:31:09,334 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 12:31:10,172 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 12:31:20,786 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 12:31:20,791 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 12:31:23,080 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 12:31:24,424 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 12:31:25,635 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 12:31:25,635 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 12:31:25,890 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 12:31:32,783 - root - INFO - ***************** Verify Login test *****************
+2022-08-27 12:31:38,129 - root - INFO - ***************** Verify Login test is passed *****************
+2022-08-27 13:17:55,410 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:17:55,410 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:17:55,410 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:17:55,410 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:17:55,410 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:17:59,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:17:59,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:17:59,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:17:59,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:17:59,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:18:35,984 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:18:37,639 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:18:37,639 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:18:37,639 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:18:37,639 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:18:37,639 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:18:41,966 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:18:41,966 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:18:43,806 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:18:43,806 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:18:43,806 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:18:43,806 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:18:43,806 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:23:26,727 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:26,727 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:26,727 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:26,727 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:26,727 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:31,109 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:23:31,109 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:23:31,109 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:23:31,109 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:23:31,109 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:23:43,260 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:23:43,260 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:23:43,260 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:23:43,260 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:23:43,260 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:23:43,261 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:23:43,261 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:23:43,261 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:23:43,261 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:23:43,261 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:23:44,695 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:44,695 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:44,695 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:44,695 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:44,695 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:23:53,030 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:23:53,030 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:23:56,457 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:23:56,457 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:23:56,457 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:23:56,457 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:23:56,457 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:26:30,602 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:26:35,199 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:26:42,744 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:26:42,744 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:27:03,731 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:27:08,435 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:27:16,347 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:27:16,347 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:27:30,172 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:30:27,881 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:30:32,273 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:30:41,887 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:30:41,887 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:37:25,151 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:37:29,455 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:37:54,613 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:37:54,613 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:38:04,733 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:38:17,923 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 13:38:17,923 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 13:38:18,090 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 13:38:18,107 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 13:38:42,988 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:38:42,988 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:38:42,988 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:38:42,988 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:38:42,988 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:38:47,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:38:47,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:38:47,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:38:47,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:38:47,915 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:38:55,889 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:38:55,889 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:38:55,889 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:38:55,889 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:38:55,889 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:38:55,890 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:38:55,890 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:38:55,890 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:38:55,890 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:38:55,890 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:39:05,517 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:39:05,517 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:39:05,517 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:39:05,517 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:39:05,517 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:39:17,389 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 13:39:17,389 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 13:39:17,389 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 13:39:17,389 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 13:39:17,389 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 13:39:17,390 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 13:39:17,390 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 13:39:17,390 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 13:39:17,390 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 13:39:17,390 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 13:39:17,597 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 13:39:17,597 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 13:39:17,597 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 13:39:17,597 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 13:39:17,597 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 13:39:17,617 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 13:39:17,617 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 13:39:17,617 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 13:39:17,617 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 13:39:17,617 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 13:39:18,617 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:39:18,617 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:39:18,617 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:39:18,617 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:39:18,617 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:39:23,174 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:39:23,174 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 13:39:25,418 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:39:25,418 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:39:25,418 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:39:25,418 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:39:25,418 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 13:47:31,618 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 13:47:32,995 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 13:47:32,995 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 13:47:33,376 - WDM - INFO - There is no [win32] chromedriver for browser 104.0.5112 in cache
+2022-08-27 13:47:33,381 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-27 13:47:37,739 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]
+2022-08-27 13:52:12,443 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 13:52:13,303 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 13:52:13,303 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 13:52:13,918 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 13:52:37,484 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 13:52:37,978 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 13:52:37,978 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 13:52:38,398 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 13:53:31,221 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 13:53:32,021 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 13:53:32,021 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 13:53:32,395 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 13:53:33,690 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:53:42,471 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:53:42,473 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:54:52,105 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 13:54:52,805 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 13:54:52,805 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 13:54:53,252 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 13:55:50,142 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 13:55:50,601 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 13:55:50,601 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 13:55:51,102 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 13:56:41,777 - root - INFO - Chromedriver is already installed.
+2022-08-27 13:56:46,327 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 13:56:55,823 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 13:56:55,823 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 13:57:05,534 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 13:57:17,572 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 13:57:17,572 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 13:57:17,700 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 13:57:17,717 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 14:19:31,795 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 14:19:32,259 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 14:19:32,259 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 14:19:32,619 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 14:19:33,596 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 14:19:47,788 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 14:19:47,788 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 14:20:01,377 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 14:20:13,937 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 14:20:13,937 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 14:20:14,087 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 14:20:14,106 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 14:22:09,684 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 14:22:10,139 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 14:22:10,139 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 14:22:10,434 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 14:22:11,435 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 14:22:20,203 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 14:22:20,203 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 14:22:30,050 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 14:22:41,762 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 14:22:41,762 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 14:22:41,883 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 14:22:41,902 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:05:31,898 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:05:31,898 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:05:31,898 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:05:31,898 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:05:31,898 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:05:32,950 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:05:32,950 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:05:32,950 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:05:32,950 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:05:32,950 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:05:32,951 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:05:32,951 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:05:32,951 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:05:32,951 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:05:32,951 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:05:33,600 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:05:33,600 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:05:33,600 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:05:33,600 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:05:33,600 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:05:34,749 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:05:34,749 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:05:34,749 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:05:34,749 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:05:34,749 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:05:46,578 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:05:46,578 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:05:46,578 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:05:46,578 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:05:46,578 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:05:46,579 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:05:46,579 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:05:46,579 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:05:46,579 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:05:46,579 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:05:56,724 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:05:56,724 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:05:56,724 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:05:56,724 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:05:56,724 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:06:08,732 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:06:08,884 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:06:08,884 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:06:08,884 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:06:08,884 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:06:08,884 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:06:08,915 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:06:08,915 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:06:08,915 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:06:08,915 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:06:08,915 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:06:08,920 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:06:08,920 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:06:08,920 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:06:08,920 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:06:08,920 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:06:09,644 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:06:09,644 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:06:09,644 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:06:09,644 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:06:09,644 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:06:09,645 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:06:09,645 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:06:09,645 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:06:09,645 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:06:09,645 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:06:10,008 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:06:10,008 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:06:10,008 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:06:10,008 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:06:10,008 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:06:11,041 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:06:11,041 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:06:13,393 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:06:13,393 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:06:13,393 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:06:13,393 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:06:13,393 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:07:27,448 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:07:27,448 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:07:27,448 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:07:27,448 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:07:27,448 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:07:27,954 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:07:27,954 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:07:27,954 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:07:27,954 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:07:27,954 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:07:27,955 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:07:27,955 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:07:27,955 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:07:27,955 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:07:27,955 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:07:28,401 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:07:28,401 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:07:28,401 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:07:28,401 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:07:28,401 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:07:29,641 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:07:29,641 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:07:29,641 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:07:29,641 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:07:29,641 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:07:55,257 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:07:55,257 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:07:55,257 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:07:55,257 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:07:55,257 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:07:55,259 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:07:55,259 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:07:55,259 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:07:55,259 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:07:55,259 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:08:21,297 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:08:21,297 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:08:21,297 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:08:21,297 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:08:21,297 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Saving Customer info *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:08:34,283 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-27 16:08:34,441 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:08:34,441 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:08:34,441 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:08:34,441 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:08:34,441 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-27 16:08:34,516 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:08:34,516 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:08:34,516 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:08:34,516 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:08:34,516 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-27 16:08:34,523 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:34,523 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:34,523 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:34,523 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:34,523 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:35,540 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:35,540 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:35,540 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:35,540 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:35,540 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:35,540 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:35,540 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:35,540 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:35,540 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:35,540 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:35,857 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:35,857 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:35,857 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:35,857 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:35,857 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:37,079 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:08:37,079 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:08:37,079 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:08:37,079 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:08:37,079 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:08:37,080 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:08:37,080 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:08:37,080 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:08:37,080 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:08:37,080 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:08:40,342 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:08:40,342 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:08:40,342 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:08:40,342 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:08:40,342 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:08:42,732 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:42,732 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:42,732 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:42,732 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:42,732 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:08:43,303 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:43,303 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:43,303 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:43,303 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:43,303 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:08:43,304 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:43,304 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:43,304 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:43,304 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:43,304 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:08:43,638 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:43,638 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:43,638 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:43,638 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:43,638 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:08:44,935 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-27 16:08:44,935 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-27 16:08:44,935 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-27 16:08:44,935 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-27 16:08:44,935 - root - INFO - ***************** Test_002_DDT_Login *****************
+2022-08-27 16:08:44,937 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-27 16:08:44,937 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-27 16:08:44,937 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-27 16:08:44,937 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-27 16:08:44,937 - root - INFO - ***************** Verify DDT Login test *****************
+2022-08-27 16:08:57,713 - root - INFO - ********** Pass *********
+2022-08-27 16:08:57,713 - root - INFO - ********** Pass *********
+2022-08-27 16:08:57,713 - root - INFO - ********** Pass *********
+2022-08-27 16:08:57,713 - root - INFO - ********** Pass *********
+2022-08-27 16:08:57,713 - root - INFO - ********** Pass *********
+2022-08-27 16:09:16,364 - root - INFO - ********** Pass *********
+2022-08-27 16:09:16,364 - root - INFO - ********** Pass *********
+2022-08-27 16:09:16,364 - root - INFO - ********** Pass *********
+2022-08-27 16:09:16,364 - root - INFO - ********** Pass *********
+2022-08-27 16:09:16,364 - root - INFO - ********** Pass *********
+2022-08-27 16:09:22,530 - root - INFO - ********** Pass *********
+2022-08-27 16:09:22,530 - root - INFO - ********** Pass *********
+2022-08-27 16:09:22,530 - root - INFO - ********** Pass *********
+2022-08-27 16:09:22,530 - root - INFO - ********** Pass *********
+2022-08-27 16:09:22,530 - root - INFO - ********** Pass *********
+2022-08-27 16:09:28,701 - root - INFO - ********** Pass *********
+2022-08-27 16:09:28,701 - root - INFO - ********** Pass *********
+2022-08-27 16:09:28,701 - root - INFO - ********** Pass *********
+2022-08-27 16:09:28,701 - root - INFO - ********** Pass *********
+2022-08-27 16:09:28,701 - root - INFO - ********** Pass *********
+2022-08-27 16:09:28,701 - root - INFO - **** Login DDT test Passed ***
+2022-08-27 16:09:28,701 - root - INFO - **** Login DDT test Passed ***
+2022-08-27 16:09:28,701 - root - INFO - **** Login DDT test Passed ***
+2022-08-27 16:09:28,701 - root - INFO - **** Login DDT test Passed ***
+2022-08-27 16:09:28,701 - root - INFO - **** Login DDT test Passed ***
+2022-08-27 16:09:28,791 - root - INFO - **** End of Login DDT test ***
+2022-08-27 16:09:28,791 - root - INFO - **** End of Login DDT test ***
+2022-08-27 16:09:28,791 - root - INFO - **** End of Login DDT test ***
+2022-08-27 16:09:28,791 - root - INFO - **** End of Login DDT test ***
+2022-08-27 16:09:28,791 - root - INFO - **** End of Login DDT test ***
+2022-08-27 16:09:28,791 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-27 16:09:28,791 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-27 16:09:28,791 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-27 16:09:28,791 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-27 16:09:28,791 - root - INFO - **** Completed Test_002_DDT_Login ***
+2022-08-27 16:09:28,800 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:28,800 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:28,800 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:28,800 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:28,800 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:29,301 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:29,301 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:29,301 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:29,301 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:29,301 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:29,301 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:29,301 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:29,301 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:29,301 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:29,301 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:29,704 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:29,704 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:29,704 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:29,704 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:29,704 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:30,839 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-27 16:09:30,839 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-27 16:09:30,839 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-27 16:09:30,839 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-27 16:09:30,839 - root - INFO - ***************** Test_004_SerachCustomerByEmail *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-27 16:09:39,655 - root - INFO - ***************** Start Serach Customer by Email test *****************
+2022-08-27 16:09:50,260 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-27 16:09:50,260 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-27 16:09:50,260 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-27 16:09:50,260 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-27 16:09:50,260 - root - INFO - ***************** Seraching Customer by Emailid *****************
+2022-08-27 16:09:50,355 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:09:50,355 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:09:50,355 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:09:50,355 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:09:50,355 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:09:50,452 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-27 16:09:50,452 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-27 16:09:50,452 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-27 16:09:50,452 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-27 16:09:50,452 - root - INFO - ***************** Ending Test_004_SerachCustomerByEmail Test *****************
+2022-08-27 16:09:50,462 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:50,462 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:50,462 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:50,462 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:50,462 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:09:51,040 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:51,040 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:51,040 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:51,040 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:51,040 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 16:09:51,042 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:51,042 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:51,042 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:51,042 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:51,042 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 16:09:51,492 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:51,492 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:51,492 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:51,492 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:51,492 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 16:09:52,676 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-27 16:09:52,676 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-27 16:09:52,676 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-27 16:09:52,676 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-27 16:09:52,676 - root - INFO - ***************** Test_005_SerachCustomerByName *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-27 16:10:01,484 - root - INFO - ***************** Start Serach Customer by Name test *****************
+2022-08-27 16:10:11,630 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-27 16:10:11,630 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-27 16:10:11,630 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-27 16:10:11,630 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-27 16:10:11,630 - root - INFO - ***************** Seraching Customer by Name *****************
+2022-08-27 16:10:11,724 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:10:11,724 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:10:11,724 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:10:11,724 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:10:11,724 - root - INFO - ***************** Seraching Customer Test is Passed *****************
+2022-08-27 16:10:11,814 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-27 16:10:11,814 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-27 16:10:11,814 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-27 16:10:11,814 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-27 16:10:11,814 - root - INFO - ***************** Ending Test_005_SerachCustomerByName Test *****************
+2022-08-27 16:28:15,203 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:28:15,203 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:28:15,203 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:28:15,203 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:28:15,203 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:28:21,313 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:28:21,313 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:28:21,313 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:28:21,313 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:28:21,313 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:28:21,314 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:28:21,314 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:28:21,314 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:28:21,314 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:28:21,314 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:28:21,993 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:28:21,993 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:28:21,993 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:28:21,993 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:28:21,993 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:28:38,384 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:28:38,384 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:28:38,384 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:28:38,384 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:28:38,384 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:29:13,306 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:29:13,876 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:29:13,876 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:29:13,876 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:29:13,876 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:29:13,876 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:29:15,520 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:29:15,520 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:29:15,520 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:29:15,520 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:29:15,520 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:29:15,521 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:29:15,521 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:29:15,521 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:29:15,521 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:29:15,521 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:29:16,181 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:29:16,181 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:29:16,181 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:29:16,181 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:29:16,181 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:29:23,840 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:29:23,840 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:29:23,840 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:29:23,840 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:29:23,840 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:29:23,842 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:29:23,842 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:29:23,842 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:29:23,842 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:29:23,842 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:29:26,873 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:29:26,873 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:29:26,873 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:29:26,873 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:29:26,873 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:34:25,725 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:25,725 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:25,725 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:25,725 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:25,725 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:27,583 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:27,583 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:27,583 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:27,583 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:27,583 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:27,583 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:27,583 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:27,583 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:27,583 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:27,583 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:28,427 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:28,427 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:28,427 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:28,427 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:28,427 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:34,308 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:34:34,308 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:34:34,308 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:34:34,308 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:34:34,308 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:34:40,548 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:34:44,643 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:44,643 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:44,643 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:44,643 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:44,643 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:34:47,847 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:47,847 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:47,847 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:47,847 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:47,847 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:34:47,847 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:47,847 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:47,847 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:47,847 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:47,847 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:34:48,197 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:48,197 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:48,197 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:48,197 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:48,197 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:34:54,346 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:34:54,346 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:34:54,346 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:34:54,346 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:34:54,346 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:34:54,351 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:34:54,351 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:34:54,351 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:34:54,351 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:34:54,351 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:34:58,099 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:34:58,099 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:34:58,099 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:34:58,099 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:34:58,099 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:37:07,522 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:07,522 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:07,522 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:07,522 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:07,522 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:10,804 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:10,804 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:10,804 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:10,804 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:10,804 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:10,804 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:10,804 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:10,804 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:10,804 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:10,804 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:11,646 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:11,646 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:11,646 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:11,646 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:11,646 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:17,669 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:37:17,669 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:37:17,669 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:37:17,669 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:37:17,669 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:37:24,283 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:37:28,370 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:28,370 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:28,370 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:28,370 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:28,370 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:37:30,217 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:30,217 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:30,217 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:30,217 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:30,217 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:37:30,217 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:30,217 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:30,217 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:30,217 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:30,217 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:37:30,524 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:30,524 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:30,524 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:30,524 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:30,524 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:37:36,501 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:37:36,501 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:37:39,919 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:37:39,919 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:37:39,919 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:37:39,919 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:37:39,919 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:40:20,153 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:20,153 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:20,153 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:20,153 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:20,153 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:22,092 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:22,092 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:22,092 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:22,092 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:22,092 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:22,092 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:22,092 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:22,092 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:22,092 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:22,092 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:22,901 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:22,901 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:22,901 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:22,901 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:22,901 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:28,709 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:40:28,709 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:40:28,709 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:40:28,709 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:40:28,709 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:40:35,249 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 16:40:39,367 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:39,367 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:39,367 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:39,367 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:39,367 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 16:40:40,717 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:40,717 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:40,717 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:40,717 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:40,717 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 16:40:40,717 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:40,717 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:40,717 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:40,717 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:40,717 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 16:40:41,069 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:41,069 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:41,069 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:41,069 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:41,069 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 16:40:47,065 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:40:47,065 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 16:40:49,929 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:40:49,929 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:40:49,929 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:40:49,929 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 16:40:49,929 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 18:46:20,697 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:46:20,697 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:46:20,697 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:46:20,697 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:46:20,697 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:46:28,615 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:46:28,615 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:46:28,615 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:46:28,615 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:46:28,615 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:46:28,615 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:46:28,615 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:46:28,615 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:46:28,615 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:46:28,615 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:46:29,679 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:46:29,679 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:46:29,679 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:46:29,679 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:46:29,679 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:46:41,856 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:46:41,856 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:46:41,856 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:46:41,856 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:46:41,856 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:46:47,801 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:48:51,581 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:48:51,581 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:48:51,581 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:48:51,581 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:48:51,581 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:48:53,253 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:48:53,253 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:48:53,253 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:48:53,253 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:48:53,253 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:48:53,253 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:48:53,253 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:48:53,253 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:48:53,253 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:48:53,253 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:48:53,878 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:48:53,878 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:48:53,878 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:48:53,878 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:48:53,878 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:49:00,450 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Test_001_Login *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 18:49:00,450 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-27 18:49:03,400 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 18:49:03,400 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 18:49:03,400 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 18:49:03,400 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 18:49:03,400 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-27 18:49:46,230 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:49:48,518 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:49:48,518 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:49:49,419 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:49:56,028 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:50:01,999 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:50:01,999 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:51:01,346 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:51:03,228 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:51:03,228 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:51:04,188 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:51:10,642 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:51:15,512 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:51:15,512 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:54:52,778 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:55:01,765 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:55:01,765 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:55:03,232 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:55:18,854 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:55:28,575 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:55:28,575 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:55:40,297 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 18:56:05,438 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:56:07,907 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:56:07,907 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:56:08,821 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:56:33,580 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:56:42,198 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:56:42,198 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 18:56:52,752 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 18:57:06,308 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 18:57:14,106 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 18:57:14,106 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 18:57:15,103 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 18:57:29,365 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 18:57:36,367 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 18:57:36,372 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:03:21,808 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:03:31,212 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:03:31,212 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:03:32,703 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:03:52,616 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:04:05,286 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:04:05,286 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:04:13,456 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 19:05:35,870 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:05:43,153 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:05:43,153 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:05:44,268 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:05:53,151 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:05:59,269 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:05:59,269 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:06:41,477 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:06:43,732 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:06:43,732 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:06:44,405 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:06:53,922 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:06:59,511 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:06:59,511 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:07:35,179 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:07:36,528 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-27 19:07:36,528 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-27 19:07:37,027 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-27 19:07:50,248 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:07:59,856 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:07:59,856 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:08:06,314 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 19:08:20,276 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:08:23,486 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:08:23,486 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:08:24,171 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:08:38,663 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:08:46,427 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:08:46,427 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:09:13,380 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:09:16,320 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:09:16,320 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:09:16,984 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:09:24,356 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:09:29,627 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:09:29,627 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:10:07,279 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:10:09,010 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:10:09,010 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:10:09,590 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:10:20,156 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:10:25,687 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:10:25,687 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:10:31,613 - root - INFO - ***************** Provide Customer info *****************
+2022-08-27 19:13:35,800 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:13:37,341 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:13:37,341 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:13:38,955 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:13:47,712 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:13:55,224 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:13:55,224 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:14:28,743 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:14:29,997 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:14:29,997 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:14:30,892 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:14:37,817 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:15:00,870 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:15:00,870 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:17:10,625 - WDM - INFO - ====== WebDriver manager ======
+2022-08-27 19:17:11,872 - WDM - INFO - Current firefox version is 102.0
+2022-08-27 19:17:11,872 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-27 19:17:12,563 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-27 19:17:19,593 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-27 19:17:46,183 - root - INFO - ***************** Login Scuessful *****************
+2022-08-27 19:17:46,183 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-27 19:18:09,893 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 10:10:19,074 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:10:21,325 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:10:21,325 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:10:24,008 - WDM - INFO - Getting latest mozilla release info for v0.31.0
+2022-08-28 10:10:24,545 - WDM - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+2022-08-28 10:10:28,249 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0]
+2022-08-28 10:10:43,862 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:10:53,583 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:10:53,583 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:20:20,361 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:20:21,607 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:20:21,608 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:20:22,212 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:20:29,395 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:21:05,254 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:21:05,255 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:25:09,838 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:25:11,336 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:25:11,337 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:25:12,042 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:25:18,542 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:25:25,458 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:25:25,459 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:27:50,993 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:27:52,164 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:27:52,164 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:27:52,761 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:27:59,786 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:28:05,675 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:28:05,676 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:32:53,331 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:32:54,947 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:32:54,947 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:32:55,765 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:33:02,560 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:33:08,232 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:33:08,232 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:34:18,011 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 10:52:45,583 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:52:47,547 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:52:47,547 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:52:48,406 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:52:55,293 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:53:02,698 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:53:02,698 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:54:05,866 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:54:07,601 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:54:07,602 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:54:08,295 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:54:15,272 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:54:22,460 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:54:22,461 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:55:11,041 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:55:14,264 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:55:14,264 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:55:14,912 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:55:26,430 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:55:32,626 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:55:32,626 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:55:38,734 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 10:57:40,656 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:57:42,070 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:57:42,070 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:57:42,823 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:57:50,394 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:57:57,277 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:57:57,277 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 10:58:20,185 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 10:58:21,578 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 10:58:21,579 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 10:58:22,259 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 10:58:29,627 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 10:58:40,349 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 10:58:40,349 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:02:14,058 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:02:15,655 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:02:15,655 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:02:16,245 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:02:23,977 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:02:30,568 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:02:30,568 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:03:14,483 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:03:15,902 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:03:15,902 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:03:16,690 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:03:24,634 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:03:31,583 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:03:31,584 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:03:40,219 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:08:40,482 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:08:42,485 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:08:42,486 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:08:43,222 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:08:50,868 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:08:57,421 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:08:57,421 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:09:27,747 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:09:29,353 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:09:29,354 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:09:30,008 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:09:37,600 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:09:43,180 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:09:43,181 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:11:05,573 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:11:07,145 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:11:07,145 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:11:07,796 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:11:14,755 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:11:20,258 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:11:20,258 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:14:26,142 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:14:27,282 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:14:27,282 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:14:28,279 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:14:35,355 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:14:41,174 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:14:41,174 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:15:38,486 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:15:39,631 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:15:39,631 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:15:40,328 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:15:47,079 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:15:53,691 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:15:53,692 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:23:01,302 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:23:02,538 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:23:02,538 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:23:03,078 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:23:09,216 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:23:15,207 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:23:15,207 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:27:39,380 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:27:40,525 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:27:40,526 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:27:41,332 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:27:47,705 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:27:54,332 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:27:54,333 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:28:02,787 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:29:09,079 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:29:10,241 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:29:10,242 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:29:10,860 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:29:17,516 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:29:24,496 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:29:24,496 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:29:36,155 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:29:48,254 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:29:48,254 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:29:48,894 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:29:50,182 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:31:22,485 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:31:25,038 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:31:25,038 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:31:25,873 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:31:34,171 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:31:39,772 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:31:39,772 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:31:51,778 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:32:03,607 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:32:03,607 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:32:04,175 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:32:05,240 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:32:49,742 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:32:50,899 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:32:50,900 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:32:51,639 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:32:58,228 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:33:03,954 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:33:03,954 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:33:16,040 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:33:27,918 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:33:27,919 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:33:28,480 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:33:29,497 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:34:30,097 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:34:31,305 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:34:31,305 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:34:31,919 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:34:38,464 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:34:46,043 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:34:46,043 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:34:58,127 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:35:09,984 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:35:09,984 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:35:10,574 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:35:11,660 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:36:06,097 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:36:07,244 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:36:07,244 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:36:07,991 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:36:14,010 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:36:21,990 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:36:21,990 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:36:34,456 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:36:46,023 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:36:46,023 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:36:46,595 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:36:47,906 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:37:33,708 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:37:33,708 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:37:33,708 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:37:33,708 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:37:33,708 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:37:34,536 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:37:34,536 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:37:34,536 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:37:34,536 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:37:34,536 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:37:34,537 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:37:34,537 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:37:34,537 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:37:34,537 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:37:34,537 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:37:35,159 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-28 11:37:35,159 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-28 11:37:35,159 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-28 11:37:35,159 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-28 11:37:35,159 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-28 11:37:39,295 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]
+2022-08-28 11:37:39,295 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]
+2022-08-28 11:37:39,295 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]
+2022-08-28 11:37:39,295 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]
+2022-08-28 11:37:39,295 - WDM - INFO - Driver has been saved in cache [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79]
+2022-08-28 11:37:44,521 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:37:44,521 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:37:44,521 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:37:44,521 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:37:44,521 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:37:55,906 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:38:10,087 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:38:10,087 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:38:10,087 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:38:10,087 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:38:10,087 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:38:21,969 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:38:22,093 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:38:22,093 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:38:22,093 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:38:22,093 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:38:22,093 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:38:22,109 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:38:22,109 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:38:22,109 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:38:22,109 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:38:22,109 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************
+2022-08-28 11:38:22,115 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:38:22,115 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:38:22,115 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:38:22,115 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:38:22,115 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:38:22,505 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:38:22,505 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:38:22,505 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:38:22,505 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:38:22,505 - WDM - INFO - Current google-chrome version is 104.0.5112
+2022-08-28 11:38:22,505 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:38:22,505 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:38:22,505 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:38:22,505 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:38:22,505 - WDM - INFO - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022-08-28 11:38:22,815 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-28 11:38:22,815 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-28 11:38:22,815 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-28 11:38:22,815 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-28 11:38:22,815 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022-08-28 11:38:23,831 - root - INFO - ***************** Test_001_Login *****************
+2022-08-28 11:38:23,831 - root - INFO - ***************** Test_001_Login *****************
+2022-08-28 11:38:23,831 - root - INFO - ***************** Test_001_Login *****************
+2022-08-28 11:38:23,831 - root - INFO - ***************** Test_001_Login *****************
+2022-08-28 11:38:23,831 - root - INFO - ***************** Test_001_Login *****************
+2022-08-28 11:38:23,832 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-28 11:38:23,832 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-28 11:38:23,832 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-28 11:38:23,832 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-28 11:38:23,832 - root - INFO - ***************** Verify Home Page Title  *****************
+2022-08-28 11:38:25,932 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-28 11:38:25,932 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-28 11:38:25,932 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-28 11:38:25,932 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-28 11:38:25,932 - root - INFO - ***************** Verify Home page title test is passed *****************
+2022-08-28 11:44:13,767 - WDM - INFO - ====== WebDriver manager ======
+2022-08-28 11:44:14,794 - WDM - INFO - Current firefox version is 102.0
+2022-08-28 11:44:14,794 - WDM - INFO - Get LATEST geckodriver version for 102.0 firefox
+2022-08-28 11:44:15,522 - WDM - INFO - Driver [C:\Users\modir\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+2022-08-28 11:44:21,533 - root - INFO - ***************** Test_003_AddCustomer *****************
+2022-08-28 11:44:27,836 - root - INFO - ***************** Login Scuessful *****************
+2022-08-28 11:44:27,836 - root - INFO - ***************** Start Add Customer test *****************
+2022-08-28 11:44:41,862 - root - INFO - ***************** Provide Customer info *****************
+2022-08-28 11:44:55,263 - root - INFO - ***************** Saving Customer info *****************
+2022-08-28 11:44:55,263 - root - INFO - ***************** Add Customer validation is start *****************
+2022-08-28 11:44:55,835 - root - INFO - ***************** Add Customer Test is Passed *****************
+2022-08-28 11:44:56,827 - root - INFO - ***************** Ending Test_003_AddCustomer Test *****************

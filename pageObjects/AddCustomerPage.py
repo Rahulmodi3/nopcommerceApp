@@ -1,9 +1,12 @@
 import time
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 class AddCustomer:
-    lnk_Customers_menu_xpath = "//a[@href='#']//*[contains(text(),'Customers')]"
+    lnk_Customers_menu_xpath = "//a[@href='#']//*[contains(text(),'Customers')]/i"
     lnk_Customers_menuitem_xpath = "//a[@href='/Admin/Customer/List']//*[contains(text(),'Customers')]"
     btn_Addnew_xpath = "//a[@href='/Admin/Customer/Create']"
     txt_Email_id = "Email"
@@ -23,22 +26,37 @@ class AddCustomer:
     drp_mgrVendor_id = "VendorId"
     txt_AdminComment_id = "AdminComment"
     btn_Save_xpath= "//button[@name='save']"
+    wait_icon_xpath = "//a[@class='nav-link'][@data-toggle='dropdown']/i"
 
 
     def __init__(self,driver):
         self.driver=driver
+        self.wait = WebDriverWait(driver, 30)
+
 
     def clickOnCustomersMenu(self):
+
+        self.wait.until(EC.visibility_of_element_located((By.XPATH, self.wait_icon_xpath)))
+        self.wait.until(EC.element_to_be_clickable((By.XPATH,self.wait_icon_xpath)))
+
+        self.wait.until(EC.element_to_be_clickable((By.XPATH,self.lnk_Customers_menu_xpath)))
+        time.sleep(3)
+
         self.driver.find_element(By.XPATH,self.lnk_Customers_menu_xpath).click()
 
     def clickOnCustomersMenuItem(self):
-        time.sleep(3)
+        self.wait.until(EC.visibility_of_element_located((By.XPATH, self.lnk_Customers_menuitem_xpath)))
+        self.wait.until(EC.element_to_be_clickable((By.XPATH, self.lnk_Customers_menuitem_xpath)))
+
         self.driver.find_element(By.XPATH,self.lnk_Customers_menuitem_xpath).click()
 
     def clickOnAddnew(self):
+        self.wait.until(EC.element_to_be_clickable((By.XPATH, self.btn_Addnew_xpath)))
+        time.sleep(3)
         self.driver.find_element(By.XPATH,self.btn_Addnew_xpath).click()
 
     def SetEmail(self,email):
+        self.wait.until(EC.visibility_of_element_located((By.XPATH, self.wait_icon_xpath)))
         self.driver.find_element(By.ID,self.txt_Email_id).send_keys(email)
 
     def SetPassword(self,Password):
@@ -102,7 +120,6 @@ class AddCustomer:
 
         else:
             self.driver.find_element(By.ID,self.rd_Male_id).click()
-
 
 
     def SetAdminComment(self,comment):
