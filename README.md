@@ -20,6 +20,8 @@ Create Hybrid Framework uisng (Python, Selenium, PyTest, Page Object Model, HTML
 
 •	**Openpyxl** : MS Excel Support
 
+•	**webdriver-manager** : Automatically manage drivers for different browsers
+
 ## Running Tests
 
 ```bash
