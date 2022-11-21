@@ -10,7 +10,6 @@ Create Hybrid Framework uisng (Python, Selenium, PyTest, Page Object Model, HTML
 
 ## Installation
 
-
 •	**Selenium** : Selenium Libraries
 
 •	**Pytest** : Python UnitTest framework
